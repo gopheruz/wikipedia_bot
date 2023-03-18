@@ -19,15 +19,14 @@ python bot.py
 
 
 # #Linux
-
+##### #install
 ```bash
 pip3 install pipenv
 ```
-
 ```bash
 pipenv sync
 ```
-
+##### #run
 ```bash
 python3 bot.py
 ```
